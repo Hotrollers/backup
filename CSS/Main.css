@@ -1,0 +1,47 @@
+ /* *{justify-content: center;
+align-items: center;
+margin: auto;
+};  */
+
+body{
+  margin: 0px;
+  background-color: #EFF5F5;
+  
+  
+}
+
+
+hr{
+  border-top: 10px dotted #000000;
+  width: 10%;
+}
+
+#header{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D6E4E5;
+  padding: 20px;
+}
+
+#footer{
+  background-color: #D6E4E5;
+  padding: 20px;
+}
+
+#abtme{
+margin: 50px 200px;
+padding: 10px 150px;
+}
+
+#natureimg{
+  color: aquamarine;
+}
+
+
+
+
+
+
+
